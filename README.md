@@ -49,7 +49,7 @@ Installation
 
 1. Clone the repository
 
-git clone https://github.com/your-username/flutter-xylophone.git
+git clone https://github.com/WileE-Coyote2003/Xylophone-Flutter.git
 
 2. Navigate to the project directory
 
